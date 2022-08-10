@@ -1,17 +1,17 @@
 {
-  "CONTRACT_ADDRESS": "0xFCE1E1c02DE674b97064aF59D578f74a1fe48C3e",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xfce1e1c02de674b97064af59d578f74a1fe48c3e",
+  "CONTRACT_ADDRESS": "0xc141cb8459BF0fc8bdc9B1Eb342CFa706758768F",
+  "SCAN_LINK": "https://polygonscan.com/tx/0x199f7ecf2bc232457e53006044baa2f462c657e9008f02d37bc1d86e5861449a",
   "NETWORK": {
-    "NAME": "Ether",
-    "SYMBOL": "ETH",
-    "ID": 4
+    "NAME": "Matic",
+    "SYMBOL": "MATIC",
+    "ID": 137
   },
-  "NFT_NAME": "Rare PeaceBox",
-  "SYMBOL": "EPB",
-  "MAX_SUPPLY": 18,
-  "WEI_COST": 1990000000000000000,
-  "DISPLAY_COST": 1.99,
-  "GAS_LIMIT": 3000000,
+  "NFT_NAME": "Celeste",
+  "SYMBOL": "CLST",
+  "MAX_SUPPLY": 48,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 300000000000000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
   "SHOW_BACKGROUND": true
