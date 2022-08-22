@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0xc141cb8459BF0fc8bdc9B1Eb342CFa706758768F",
+  "CONTRACT_ADDRESS": "0xA2830C3D7fd3aB167477973ac7159A980485DF6d",
   "SCAN_LINK": "https://polygonscan.com/tx/0x199f7ecf2bc232457e53006044baa2f462c657e9008f02d37bc1d86e5861449a",
   "NETWORK": {
     "NAME": "Matic",
     "SYMBOL": "MATIC",
-    "ID": 80001
+    "ID": 137
   },
   "NFT_NAME": "Celeste",
   "SYMBOL": "CLST",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 3,
   "GAS_LIMIT": 300000000000000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://www.instagram.com/sofiiasokolyk/",
   "SHOW_BACKGROUND": true
 }
